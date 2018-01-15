@@ -3,6 +3,10 @@
     src: url(./font/Let_s_go_Digital_Regular.ttf);
 }
 
+html, body, main {
+    font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue","游ゴシック Medium",YuGothic,YuGothicM,"Hiragino Kaku Gothic ProN",メイリオ,Meiryo,sans-serif;
+    background-color: #aefcff;
+}
 
 
 
