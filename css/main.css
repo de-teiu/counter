@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'counterFont';
+    src: url(./font/Let_s_go_Digital_Regular.ttf);
+}
+
+
+
+
+
+.counterText {
+    background-color: #000000;
+    color: #00ff00;
+    font-family: counterFont;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.counterBorder {
+    border: ridge 4px #b3c6eb;
+}
